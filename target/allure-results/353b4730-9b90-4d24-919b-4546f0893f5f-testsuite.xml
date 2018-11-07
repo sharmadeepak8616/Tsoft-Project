@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1541550598135" stop="1541550598169" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify present temperature is between lowest and highest</name>
+    <title>Verify present temperature is between lowest and highest</title>
+    <test-cases>
+        <test-case start="1541550598153" stop="1541550598155" status="pending">
+            <name>Given I am on Dark Sky webpage</name>
+            <title>Given I am on Dark Sky webpage</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Deepaks-MBP"/>
+                <label name="thread" value="3177@Deepaks-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1541550598160" stop="1541550598160" status="pending">
+            <name>When I enter zip code as 10001</name>
+            <title>When I enter zip code as 10001</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Deepaks-MBP"/>
+                <label name="thread" value="3177@Deepaks-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1541550598162" stop="1541550598162" status="pending">
+            <name>And I click on search button</name>
+            <title>And I click on search button</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Deepaks-MBP"/>
+                <label name="thread" value="3177@Deepaks-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1541550598163" stop="1541550598163" status="pending">
+            <name>Then I verify present temperature is between lowest and highest</name>
+            <title>Then I verify present temperature is between lowest and highest</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Deepaks-MBP"/>
+                <label name="thread" value="3177@Deepaks-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1541550598166" stop="1541550598166" status="pending">
+            <name>Scenario: Verify present temperature is between lowest and highest</name>
+            <title>Scenario: Verify present temperature is between lowest and highest</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Deepaks-MBP"/>
+                <label name="thread" value="3177@Deepaks-MBP.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify present temperature is between lowest and highest"/>
+        <label name="feature" value="Dark Sky Feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
